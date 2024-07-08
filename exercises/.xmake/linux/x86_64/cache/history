@@ -1,0 +1,13 @@
+{
+    cmdlines = {
+        "xmake lua /home/peter/.local/share/xmake/modules/private/utils/statistics.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/modules/private/utils/statistics.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/modules/private/utils/statistics.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/modules/private/utils/statistics.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/actions/build/cleaner.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/modules/private/utils/statistics.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/actions/build/cleaner.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/modules/private/utils/statistics.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises",
+        "xmake lua /home/peter/.local/share/xmake/actions/build/cleaner.lua --project=/home/peter/2024WinterLLMCamp/learning-cxx/exercises"
+    }
+}
